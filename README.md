@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anant Prakash
-- 👀 I’m interested in Programming and cricket
+- 👀 I’m interested in Programming,Cricket,Gaming and studies
 - 😄 Pronouns: He/Him
 
 # 💻 Tech Stack:
